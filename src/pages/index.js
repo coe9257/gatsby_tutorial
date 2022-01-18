@@ -22,7 +22,7 @@ const codeStyles = {
   padding: 4,
   backgroundColor: "#FFF4DB",
   fontSize: "1.25rem",
-  borderRadius: 4,
+  borderRadius: 5,
 }
 const listStyles = {
   marginBottom: 96,
